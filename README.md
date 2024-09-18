@@ -3,4 +3,4 @@
 # 3. Enter Sujbect related information and his consent 
 # 4. run Controller contract wiht Subject Contract Address
 # 5. add informaiton of PatientCheckup 
-# 6. run Controller contract 
+# 6. run Requester contract 
